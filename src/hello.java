@@ -1,7 +1,7 @@
 
 public class hello {
 
-	public static main(String[] args) 
+	public static void main(String[] args) 
 	{
 		hello hello = new hello();
 		hello.methodA();
